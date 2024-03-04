@@ -12,7 +12,7 @@ Voice Genius is a simple web application that utilizes the OpenAI API and the Sp
 
 ## Example Interface
 
-![Voice Genius Example Interface](ExampleInetrface.png)
+![Voice Genius Example Interface](ExampleInterface.png)
 
 ## Prerequisites
 
