@@ -10,6 +10,10 @@ Voice Genius is a simple web application that utilizes the OpenAI API and the Sp
 
 - **Bootstrap Styling**: The web interface is styled using Bootstrap, providing a clean and responsive design.
 
+## Example Interface
+
+![Voice Genius Example Interface](ExampleInetrface.png)
+
 ## Prerequisites
 
 - Node.js installed on your machine.
